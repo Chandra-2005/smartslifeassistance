@@ -1,0 +1,204 @@
+Food Name,Ingredients,Recipe (Instructions),Cuisine Type,Cooking Method,Preparation Time,Rating
+Spaghetti Carbonara,"spaghetti, eggs, bacon, Parmesan, black pepper",Boil spaghetti. Fry bacon. Mix eggs with Parmesan. Toss everything together with pasta and season with pepper.,Italian,Boiling,20 mins,4.8
+Chicken Tikka Masala,"chicken, yogurt, garam masala, tomato, cream, spices",Marinate chicken in yogurt and spices. Grill chicken. Cook with tomato sauce and cream.,Indian,Grilling,45 mins,4.7
+Vegetable Stir Fry,"broccoli, bell pepper, soy sauce, garlic, sesame oil",Stir fry vegetables in sesame oil and garlic. Add soy sauce and cook until tender.,Chinese,Stir-Frying,15 mins,4.6
+Beef Tacos,"ground beef, taco shells, lettuce, tomato, cheese","Cook ground beef with spices. Assemble tacos with lettuce, tomato, and cheese.",Mexican,Frying,30 mins,4.5
+Pancakes,"flour, eggs, milk, sugar, butter","Mix flour, eggs, milk, and sugar. Cook batter on a hot griddle until golden brown.",American,Frying,10 mins,4.3
+Margarita Pizza,"pizza dough, mozzarella, tomatoes, basil",Spread sauce on dough. Add cheese and basil. Bake until golden.,Italian,Baking,25 mins,4.9
+Butter Chicken,"chicken, butter, cream, tomato, spices","Cook chicken in butter, add spices and cream, simmer until thick.",Indian,Simmering,50 mins,4.8
+Fried Rice,"rice, eggs, vegetables, soy sauce, green onions","Stir fry rice with vegetables and soy sauce. Add scrambled eggs.",Chinese,Stir-Frying,20 mins,4.4
+Chicken Enchiladas,"chicken, tortillas, cheese, enchilada sauce","Roll chicken in tortillas, top with sauce and cheese, bake until bubbly.",Mexican,Baking,35 mins,4.6
+French Toast,"bread, eggs, milk, cinnamon, butter","Dip bread in egg mixture. Cook on a griddle until golden brown.",American,Frying,15 mins,4.5
+Biryani,"rice, chicken, spices, yogurt, onions","Layer rice with marinated chicken and spices, cook until done.",Indian,Simmering,70 mins,4.7
+Vegetable Curry,"mixed vegetables, coconut milk, curry paste","Cook vegetables in coconut milk with curry paste until tender.",Indian,Simmering,30 mins,4.5
+Tom Yum Soup,"shrimp, lemongrass, lime, chili paste","Boil water with herbs. Add shrimp and cook until done.",Thai,Boiling,20 mins,4.8
+Sushi,"rice, seaweed, fish, avocado, soy sauce","Roll sushi with rice, fish, and avocado, slice into pieces.",Japanese,Rolling,40 mins,4.9
+Caesar Salad,"romaine lettuce, croutons, Caesar dressing, parmesan","Toss lettuce with dressing, croutons, and cheese.",Italian,No Cooking,10 mins,4.6
+Beef Stroganoff,"beef, mushrooms, onions, sour cream, noodles","Cook beef and onions, add mushrooms, and stir in sour cream.",Russian,Simmering,45 mins,4.5
+Lentil Soup,"lentils, carrots, celery, spices, broth","Simmer lentils with vegetables and spices until tender.",American,Simmering,30 mins,4.4
+Lasagna,"lasagna noodles, cheese, tomato sauce, ground beef","Layer noodles, cheese, and sauce, bake until bubbly.",Italian,Baking,60 mins,4.8
+Chili Con Carne,"ground beef, beans, tomatoes, spices","Cook beef with beans and spices until thick.",Mexican,Simmering,50 mins,4.5
+Pesto Pasta,"pasta, basil pesto, cherry tomatoes, Parmesan","Toss cooked pasta with pesto and halved cherry tomatoes.",Italian,Boiling,20 mins,4.6
+Stuffed Peppers,"bell peppers, rice, ground beef, cheese","Stuff peppers with rice and beef, bake until tender.",American,Baking,40 mins,4.5
+Eggplant Parmesan,"eggplant, marinara sauce, mozzarella, Parmesan","Layer fried eggplant with sauce and cheese, bake until golden.",Italian,Baking,50 mins,4.7
+Baked Ziti,"ziti pasta, marinara sauce, ricotta, mozzarella","Mix pasta with sauce and cheese, bake until bubbly.",Italian,Baking,35 mins,4.6
+Quiche Lorraine,"pie crust, eggs, cream, bacon, cheese","Whisk eggs and cream, add bacon and cheese, bake until set.",French,Baking,45 mins,4.8
+Shrimp Scampi,"shrimp, garlic, butter, lemon, pasta","Sauté shrimp in garlic and butter, serve with pasta.",Italian,Sautéing,25 mins,4.7
+Fish Tacos,"fish, taco shells, cabbage, lime, salsa","Grill fish, assemble in taco shells with toppings.",Mexican,Grilling,30 mins,4.4
+Minestrone Soup,"vegetables, beans, pasta, broth, herbs","Simmer vegetables and pasta in broth until tender.",Italian,Simmering,40 mins,4.6
+Falafel,"chickpeas, herbs, spices, tahini","Blend chickpeas with herbs, fry until golden brown.",Middle Eastern,Frying,30 mins,4.5
+Chocolate Chip Cookies,"flour, sugar, butter, chocolate chips","Mix ingredients, scoop onto baking sheet, bake until golden.",American,Baking,15 mins,4.9
+Garlic Bread,"bread, garlic, butter, parsley","Spread butter and garlic on bread, bake until toasted.",Italian,Baking,10 mins,4.7
+Prawn Curry,"prawns, coconut milk, curry paste, spices","Cook prawns in coconut milk with spices until done.",Thai,Simmering,30 mins,4.8
+Ratatouille,"eggplant, zucchini, bell pepper, tomatoes","Layer vegetables, bake until tender.",French,Baking,50 mins,4.6
+Potato Salad,"potatoes, mayonnaise, mustard, celery","Boil potatoes, mix with dressing and vegetables.",American,No Cooking,20 mins,4.5
+Peach Crisp,"peaches, sugar, oats, butter","Combine peaches with sugar, top with oats and bake.",American,Baking,30 mins,4.4
+Beef Wellington,"beef, puff pastry, mushrooms, prosciutto","Wrap beef in pastry with mushrooms, bake until golden.",British,Baking,90 mins,4.9
+Pork Chops,"pork chops, garlic, herbs, butter","Sear pork chops, finish in oven until cooked through.",American,Searing,35 mins,4.6
+Buffalo Wings,"chicken wings, hot sauce, butter","Bake wings, toss in sauce, serve with celery.",American,Baking,45 mins,4.7
+Chickpea Salad,"chickpeas, cucumber, tomatoes, lemon, herbs","Mix all ingredients in a bowl, serve chilled.",Mediterranean,No Cooking,15 mins,4.5
+Rice Pudding,"rice, milk, sugar, cinnamon","Cook rice in milk with sugar and spices until creamy.",American,Simmering,40 mins,4.6
+Vegetable Lasagna,"lasagna noodles, spinach, ricotta, marinara","Layer noodles with vegetables and sauce, bake until bubbly.",Italian,Baking,60 mins,4.8
+Chocolate Mousse,"chocolate, eggs, cream, sugar","Melt chocolate, fold in whipped cream and egg whites.",French,No Cooking,25 mins,4.9
+Samosas,"potatoes, peas, spices, dough","Fill dough with spiced filling, fry until golden.",Indian,Frying,45 mins,4.7
+Clam Chowder,"clams, potatoes, cream, onions","Cook all ingredients together until thick and creamy.",American,Simmering,40 mins,4.8
+Baba Ganoush,"eggplant, tahini, garlic, lemon","Roast eggplant, blend with other ingredients until smooth.",Middle Eastern,Blending,30 mins,4.6
+Tandoori Chicken,"chicken, yogurt, spices","Marinate chicken in yogurt and spices, grill until cooked.",Indian,Grilling,60 mins,4.8
+Hummus,"chickpeas, tahini, lemon, garlic","Blend all ingredients until smooth, serve with pita.",Middle Eastern,Blending,15 mins,4.5
+Pork Fried Rice,"pork, rice, soy sauce, vegetables","Stir fry pork with rice and vegetables in soy sauce.",Chinese,Stir-Frying,30 mins,4.6
+Beet Salad,"beets, goat cheese, walnuts, arugula","Toss beets with cheese and walnuts on a bed of arugula.",American,No Cooking,20 mins,4.5
+Chicken Fajitas,"chicken, bell peppers, onions, tortillas","Sauté chicken and vegetables, serve with tortillas.",Mexican,Sautéing,30 mins,4.6
+Stuffed Zucchini,"zucchini, ground turkey, cheese","Fill zucchini boats with meat and cheese, bake until tender.",Italian,Baking,40 mins,4.7
+Carrot Cake,"carrots, flour, sugar, spices, cream cheese","Mix ingredients, bake, and top with cream cheese frosting.",American,Baking,60 mins,4.8
+Roasted Cauliflower,"cauliflower, olive oil, garlic, spices","Toss cauliflower with oil and spices, roast until golden.",American,Roasting,30 mins,4.6
+Cheese Quesadilla,"tortillas, cheese, salsa","Fill tortillas with cheese, cook until golden brown.",Mexican,Frying,15 mins,4.5
+Vegetable Samosas,"potatoes, peas, spices, dough","Fill dough with vegetable mix, fry until golden.",Indian,Frying,45 mins,4.6
+Quinoa Salad,"quinoa, cucumber, tomatoes, feta, lemon","Mix cooked quinoa with chopped vegetables and feta.",Mediterranean,No Cooking,20 mins,4.5
+Egg Fried Rice,"rice, eggs, peas, soy sauce","Stir fry rice with eggs and peas, add soy sauce to taste.",Chinese,Stir-Frying,20 mins,4.4
+Moussaka,"eggplant, ground beef, béchamel sauce","Layer eggplant with meat and sauce, bake until golden.",Greek,Baking,70 mins,4.8
+Fruit Salad,"mixed fruits, honey, mint","Chop fruits and toss with honey and mint.",American,No Cooking,10 mins,4.5
+Pineapple Fried Rice,"rice, pineapple, vegetables, soy sauce","Stir fry rice with pineapple and vegetables, add soy sauce.",Thai,Stir-Frying,25 mins,4.6
+Pork Schnitzel,"pork, breadcrumbs, eggs, lemon","Coat pork in breadcrumbs, fry until golden.",German,Frying,30 mins,4.7
+Vegan Chili,"beans, tomatoes, bell pepper, spices","Cook all ingredients together until thick.",Vegan,Simmering,45 mins,4.5
+Ramen Noodle Soup,"ramen noodles, broth, vegetables, egg","Cook noodles in broth, add vegetables and a soft-boiled egg.",Japanese,Boiling,25 mins,4.8
+Egg Salad,"eggs, mayonnaise, mustard, lettuce","Mix chopped eggs with mayo and mustard, serve on lettuce.",American,No Cooking,10 mins,4.5
+Banana Bread,"bananas, flour, sugar, eggs","Mix ingredients, pour into loaf pan, bake until golden.",American,Baking,60 mins,4.6
+Shrimp Pad Thai,"shrimp, rice noodles, peanuts, bean sprouts","Stir fry shrimp with noodles, add sauce and toppings.",Thai,Stir-Frying,30 mins,4.8
+Chocolate Cake,"flour, cocoa powder, sugar, eggs, butter","Mix ingredients, bake until done, frost with chocolate icing.",American,Baking,60 mins,4.9
+Mango Sticky Rice,"glutinous rice, mango, coconut milk","Steam rice, serve with sliced mango and coconut milk.",Thai,Steaming,30 mins,4.7
+Crab Cakes,"crab meat, breadcrumbs, mayo, spices","Mix crab with ingredients, form cakes, and fry until golden.",American,Frying,30 mins,4.6
+Tuna Salad,"tuna, mayonnaise, celery, onions","Mix tuna with mayo and vegetables, serve chilled.",American,No Cooking,10 mins,4.5
+Fettuccine Alfredo,"fettuccine, cream, Parmesan, garlic","Cook fettuccine, mix with cream and cheese until creamy.",Italian,Boiling,25 mins,4.8
+Baked Salmon,"salmon, lemon, herbs, olive oil","Season salmon, bake until flaky.",American,Baking,25 mins,4.7
+Zucchini Noodles,"zucchini, olive oil, garlic, tomatoes","Spiralize zucchini, sauté with garlic and tomatoes.",Italian,Sautéing,20 mins,4.6
+Apple Pie,"apples, sugar, cinnamon, pie crust","Fill crust with apples, sugar, and cinnamon, bake until golden.",American,Baking,60 mins,4.8
+Cheeseburgers,"ground beef, buns, cheese, lettuce, tomato","Grill patties, assemble with toppings in buns.",American,Grilling,30 mins,4.5
+Lemon Bars,"lemon juice, sugar, eggs, flour","Mix ingredients, bake until set, dust with powdered sugar.",American,Baking,40 mins,4.7
+Kale Salad,"kale, olive oil, lemon, nuts","Massage kale with oil and lemon, top with nuts.",American,No Cooking,15 mins,4.6
+Beef Burritos,"ground beef, tortillas, beans, cheese","Fill tortillas with beef and beans, roll up and grill.",Mexican,Grilling,30 mins,4.5
+Thai Green Curry,"chicken, coconut milk, green curry paste, vegetables","Cook chicken and vegetables in coconut milk with curry paste.",Thai,Simmering,40 mins,4.8
+Lemon Chicken,"chicken, lemon, garlic, herbs","Marinate chicken, roast until cooked through.",American,Rosting,40 mins,4.7
+Vegetable Paella,"rice, mixed vegetables, saffron, spices","Cook rice with vegetables and spices until fluffy.",Spanish,Simmering,45 mins,4.6
+Borscht,"beets, cabbage, potatoes, broth","Cook vegetables in broth until tender, serve hot.",Russian,Simmering,60 mins,4.5
+Spinach Artichoke Dip,"spinach, artichokes, cream cheese, cheese","Mix all ingredients, bake until hot and bubbly.",American,Baking,30 mins,4.6
+Cobb Salad,"lettuce, chicken, bacon, egg, avocado","Toss ingredients with dressing, serve cold.",American,No Cooking,20 mins,4.7
+Chocolate Brownies,"chocolate, butter, sugar, flour, eggs","Mix ingredients, bake until set, cool and cut into squares.",American,Baking,40 mins,4.9
+Margherita Flatbread,"flatbread, tomatoes, mozzarella, basil","Top flatbread with ingredients, bake until crispy.",Italian,Baking,15 mins,4.6
+Tomato Basil Soup,"tomatoes, basil, garlic, cream","Simmer tomatoes and garlic, blend, add cream.",Italian,Simmering,30 mins,4.7
+Vegan Buddha Bowl,"quinoa, chickpeas, spinach, avocado, tahini","Layer ingredients in a bowl, drizzle with tahini.",Vegan,No Cooking,20 mins,4.5
+Roasted Brussels Sprouts,"Brussels sprouts, olive oil, garlic, balsamic","Toss sprouts with oil and garlic, roast until crispy.",American,Roasting,30 mins,4.6
+Chocolate Pudding,"milk, sugar, cocoa powder, cornstarch","Cook all ingredients until thick, chill before serving.",American,Simmering,20 mins,4.4
+Pork Loin,"pork loin, garlic, rosemary, olive oil","Season pork, roast until cooked through, slice to serve.",American,Rosting,60 mins,4.8
+Chicken Parmesan,"chicken, breadcrumbs, marinara, mozzarella","Coat chicken in breadcrumbs, fry, top with sauce and cheese.",Italian,Frying,45 mins,4.7
+Pasta Primavera,"pasta, mixed vegetables, olive oil, garlic","Cook pasta, toss with sautéed vegetables and oil.",Italian,Boiling,30 mins,4.6
+Vegetable Frittata,"eggs, spinach, peppers, cheese","Whisk eggs, add vegetables, cook until set.",Italian,Sautéing,25 mins,4.7
+Baked Potatoes,"potatoes, butter, sour cream, chives","Bake potatoes until tender, top with butter and sour cream.",American,Baking,60 mins,4.6
+Lamb Curry,"lamb, yogurt, spices, tomato, onions","Cook lamb with yogurt and spices until tender.",Indian,Simmering,60 mins,4.8
+Potato Wedges,"potatoes, olive oil, spices","Cut potatoes, toss with oil and spices, bake until crispy.",American,Baking,30 mins,4.5
+Stuffed Mushrooms,"mushrooms, cream cheese, herbs, breadcrumbs","Fill mushrooms with mixture, bake until golden.",American,Baking,25 mins,4.6
+Beef Kofta,"ground beef, spices, herbs","Shape beef into logs, grill until cooked through.",Middle Eastern,Grilling,30 mins,4.7
+Oatmeal Cookies,"oats, flour, sugar, chocolate chips","Mix ingredients, scoop onto baking sheet, bake until golden.",American,Baking,15 mins,4.5
+Pumpkin Soup,"pumpkin, broth, cream, spices","Cook pumpkin in broth, blend, add cream.",American,Simmering,30 mins,4.6
+Fettuccine Pesto,"fettuccine, pesto, cherry tomatoes, Parmesan","Toss cooked fettuccine with pesto and tomatoes.",Italian,Boiling,20 mins,4.8
+Baked Eggplant,"eggplant, marinara sauce, cheese","Layer eggplant with sauce and cheese, bake until golden.",Italian,Baking,50 mins,4.5
+Baked Apples,"apples, sugar, cinnamon, butter","Core apples, fill with mixture, bake until tender.",American,Baking,30 mins,4.6
+Greek Salad,"cucumbers, tomatoes, olives, feta","Toss all ingredients together, serve chilled.",Mediterranean,No Cooking,15 mins,4.8
+Chicken Shawarma,"chicken, spices, pita, garlic sauce","Marinate chicken, grill, serve in pita with sauce.",Middle Eastern,Grilling,30 mins,4.7
+Cauliflower Rice,"cauliflower, olive oil, spices","Grate cauliflower, sauté with oil and spices.",American,Sautéing,15 mins,4.5
+Beef Wellington,"beef, mushrooms, pastry, pâté","Wrap beef in pastry, bake until golden.",British,Baking,120 mins,4.9
+Pesto Pasta,"pasta, basil, garlic, Parmesan, olive oil","Cook pasta, mix with pesto, serve hot.",Italian,Boiling,20 mins,4.6
+Chili Con Carne,"ground beef, beans, tomatoes, spices","Cook all ingredients together until thick.",Mexican,Simmering,60 mins,4.7
+Chicken Fajitas,"chicken, bell peppers, onions, spices","Sauté chicken and vegetables, serve with tortillas.",Mexican,Stir-Frying,25 mins,4.8
+Shrimp Scampi,"shrimp, garlic, butter, lemon, parsley","Sauté shrimp in garlic butter, serve with pasta.",Italian,Sautéing,20 mins,4.9
+Crème Brûlée,"cream, sugar, egg yolks, vanilla","Bake custard, sprinkle sugar, caramelize top.",French,Baking,90 mins,4.8
+Spicy Tuna Rolls,"sushi rice, tuna, avocado, nori","Roll sushi rice and ingredients in nori, slice to serve.",Japanese,No Cooking,30 mins,4.5
+Tandoori Chicken,"chicken, yogurt, spices","Marinate chicken, bake until cooked through.",Indian,Baking,60 mins,4.7
+Vegetable Curry,"mixed vegetables, coconut milk, spices","Cook vegetables in coconut milk with spices.",Indian,Simmering,40 mins,4.5
+Stuffed Peppers,"bell peppers, rice, ground beef, spices","Fill peppers with mixture, bake until tender.",Mexican,Baking,50 mins,4.6
+Sushi Rolls,"sushi rice, fish, vegetables, nori","Roll ingredients in nori, slice to serve.",Japanese,No Cooking,30 mins,4.7
+Baked Ziti,"ziti, marinara sauce, cheese","Layer ziti with sauce and cheese, bake until bubbly.",Italian,Baking,50 mins,4.6
+Marinated Grilled Chicken,"chicken, marinade, spices","Marinate chicken, grill until cooked through.",American,Grilling,30 mins,4.8
+Vegetable Spring Rolls,"spring roll wrappers, vegetables, dipping sauce","Fill wrappers with vegetables, fry until crispy.",Vietnamese,Frying,20 mins,4.5
+Eggplant Parmesan,"eggplant, marinara sauce, cheese","Layer eggplant with sauce and cheese, bake until bubbly.",Italian,Baking,60 mins,4.7
+Cajun Shrimp Pasta,"pasta, shrimp, spices, cream","Cook pasta, toss with shrimp and cream sauce.",American,Boiling,30 mins,4.6
+Classic Hummus,"chickpeas, tahini, lemon, garlic","Blend ingredients until smooth, serve with pita.",Middle Eastern,No Cooking,10 mins,4.7
+Chicken Noodle Soup,"chicken, noodles, carrots, broth","Cook all ingredients in broth until tender.",American,Simmering,40 mins,4.6
+Lobster Roll,"lobster, butter, rolls, lettuce","Mix lobster with butter, serve in rolls with lettuce.",American,No Cooking,15 mins,4.8
+Clam Chowder,"clams, potatoes, cream, spices","Cook all ingredients together until thick, serve hot.",American,Simmering,50 mins,4.6
+Beef Stroganoff,"beef, mushrooms, cream, egg noodles","Cook beef and mushrooms, mix with cream, serve over noodles.",Russian,Simmering,50 mins,4.8
+Spinach Salad,"spinach, nuts, cheese, vinaigrette","Toss ingredients together with vinaigrette, serve cold.",American,No Cooking,15 mins,4.5
+Apple Crisp,"apples, oats, brown sugar, butter","Toss apples with mixture, bake until bubbly.",American,Baking,30 mins,4.6
+Chicken Lettuce Wraps,"chicken, lettuce, hoisin sauce, vegetables","Cook chicken, serve in lettuce leaves with sauce.",Chinese,Stir-Frying,30 mins,4.5
+Bangers and Mash,"sausages, potatoes, gravy","Cook sausages, serve with mashed potatoes and gravy.",British,No Cooking,40 mins,4.6
+Chow Mein,"noodles, vegetables, soy sauce, chicken","Stir fry noodles and vegetables with chicken and sauce.",Chinese,Stir-Frying,30 mins,4.8
+Vegetarian Chili,"beans, tomatoes, vegetables, spices","Cook all ingredients together until thick.",Vegan,Simmering,40 mins,4.7
+Pineapple Upside Down Cake,"pineapple, cake mix, cherries, butter","Layer pineapple and cherries, bake with cake mix.",American,Baking,45 mins,4.5
+Basil Pesto,"basil, garlic, Parmesan, olive oil","Blend ingredients until smooth, serve with pasta or bread.",Italian,No Cooking,15 mins,4.8
+Shrimp Fried Rice,"shrimp, rice, peas, soy sauce","Stir fry shrimp with rice and peas, add soy sauce to taste.",Chinese,Stir-Frying,20 mins,4.6
+Cheesy Broccoli,"broccoli, cheese, breadcrumbs","Steam broccoli, top with cheese and breadcrumbs, bake until golden.",American,Baking,30 mins,4.5
+Eggnog,"eggs, milk, sugar, nutmeg","Whisk ingredients together, chill before serving.",American,No Cooking,10 mins,4.5
+Vegetable Noodle Soup,"noodles, mixed vegetables, broth","Cook noodles with vegetables in broth until tender.",American,Simmering,30 mins,4.6
+Coconut Curry,"coconut milk, vegetables, spices","Cook all ingredients together until thick and creamy.",Indian,Simmering,40 mins,4.7
+Cheesy Cauliflower Bake,"cauliflower, cheese, breadcrumbs","Bake cauliflower with cheese and breadcrumbs until golden.",American,Baking,40 mins,4.6
+Vegetable Quesadilla,"tortillas, vegetables, cheese","Fill tortillas with vegetables and cheese, cook until golden brown.",Mexican,Frying,15 mins,4.5
+Maple Glazed Carrots,"carrots, maple syrup, butter","Cook carrots with maple syrup and butter until tender.",American,No Cooking,20 mins,4.6
+Shrimp Tacos,"shrimp, tortillas, cabbage, salsa","Fill tortillas with shrimp and toppings, serve with salsa.",Mexican,Frying,30 mins,4.8
+Black Bean Soup,"black beans, broth, spices","Cook black beans in broth with spices until thick.",Vegan,Simmering,50 mins,4.5
+Korean BBQ Beef,"beef, soy sauce, sesame oil, garlic","Marinate beef in sauce, grill until cooked through.",Korean,Grilling,30 mins,4.8
+Ratatouille,"zucchini, eggplant, bell pepper, tomato","Cook vegetables together until tender, serve hot.",French,Simmering,50 mins,4.6
+Stuffed Zucchini,"zucchini, ground beef, cheese","Fill zucchini with mixture, bake until tender.",Italian,Baking,40 mins,4.7
+Sweet Potato Fries,"sweet potatoes, olive oil, spices","Cut sweet potatoes, toss with oil and spices, bake until crispy.",American,Baking,30 mins,4.5
+Chicken and Rice,"chicken, rice, spices, broth","Cook chicken and rice together in broth until tender.",American,Simmering,50 mins,4.6
+Pasta Salad,"pasta, vegetables, dressing","Toss cooked pasta with vegetables and dressing.",American,No Cooking,20 mins,4.6
+Lentil Soup,"lentils, vegetables, broth","Cook lentils and vegetables in broth until tender.",Vegan,Simmering,40 mins,4.7
+Shrimp Bisque,"shrimp, cream, broth, spices","Cook shrimp in broth, blend with cream until smooth.",French,Simmering,50 mins,4.8
+Chocolate Mousse,"chocolate, cream, eggs, sugar","Whip ingredients together, chill before serving.",French,No Cooking,40 mins,4.9
+Buffalo Cauliflower,"cauliflower, hot sauce, breadcrumbs","Bake cauliflower with hot sauce and breadcrumbs until crispy.",American,Baking,30 mins,4.6
+Fried Green Tomatoes,"green tomatoes, cornmeal, spices","Coat tomatoes in cornmeal, fry until golden brown.",American,Frying,20 mins,4.7
+Chicken Pot Pie,"chicken, pie crust, vegetables, broth","Cook chicken and vegetables, fill pie crust and bake until golden.",American,Baking,60 mins,4.8
+Potato Salad,"potatoes, mayonnaise, mustard, celery","Cook potatoes, mix with mayo and vegetables, serve cold.",American,No Cooking,30 mins,4.6
+Grilled Cheese Sandwich,"bread, cheese, butter","Grill sandwich until cheese is melted and bread is golden.",American,Grilling,15 mins,4.7
+Baked Beans,"beans, bacon, brown sugar, spices","Cook beans with bacon and spices until thick.",American,Simmering,60 mins,4.6
+Eggplant Rollatini,"eggplant, ricotta, marinara sauce","Fill eggplant slices with ricotta, roll, and bake in sauce.",Italian,Baking,50 mins,4.7
+Zucchini Bread,"zucchini, flour, sugar, eggs","Mix ingredients, bake until golden brown.",American,Baking,60 mins,4.6
+Pork Chops with Apples,"pork chops, apples, spices","Cook pork chops with apples and spices until tender.",American,Simmering,45 mins,4.8
+Grilled Salmon,"salmon, lemon, herbs, olive oil","Grill salmon with lemon and herbs until cooked through.",American,Grilling,25 mins,4.9
+Fruit Salad,"mixed fruits, honey, lime juice","Toss fruits with honey and lime juice, serve cold.",American,No Cooking,10 mins,4.6
+Spinach Quiche,"spinach, eggs, cheese, crust","Mix ingredients, bake until set and golden brown.",French,Baking,45 mins,4.8
+Meatloaf,"ground beef, breadcrumbs, ketchup, spices","Mix ingredients, shape, and bake until cooked through.",American,Baking,60 mins,4.7
+Chocolate Chip Cookies,"flour, sugar, butter, chocolate chips","Mix ingredients, scoop, and bake until golden brown.",American,Baking,30 mins,4.6
+Beef Tacos,"ground beef, tortillas, lettuce, cheese","Fill tortillas with beef and toppings, serve hot.",Mexican,Frying,20 mins,4.7
+French Toast,"bread, eggs, milk, cinnamon","Dip bread in mixture, cook on skillet until golden brown.",American,Frying,20 mins,4.6
+Carrot Cake,"carrots, flour, sugar, eggs","Mix ingredients, bake until golden brown, frost if desired.",American,Baking,60 mins,4.8
+Banana Bread,"bananas, flour, sugar, eggs","Mix ingredients, bake until golden brown.",American,Baking,60 mins,4.7
+Cobb Salad,"lettuce, chicken, bacon, eggs, cheese","Toss ingredients together, serve with dressing.",American,No Cooking,20 mins,4.6
+Roasted Brussels Sprouts,"Brussels sprouts, olive oil, spices","Toss sprouts with oil and spices, roast until crispy.",American,Baking,25 mins,4.5
+Baked Potato,"potato, butter, sour cream, chives","Bake potato until tender, top with butter and sour cream.",American,Baking,60 mins,4.7
+Vegetable Stir Fry,"mixed vegetables, soy sauce, ginger","Stir fry vegetables with soy sauce and ginger until tender.",Asian,Stir-Frying,20 mins,4.6
+Ramen Noodles,"noodles, broth, vegetables","Cook noodles in broth with vegetables until tender.",Japanese,Simmering,30 mins,4.5
+Pork Fried Rice,"pork, rice, vegetables, soy sauce","Stir fry pork with rice and vegetables, add soy sauce to taste.",Chinese,Stir-Frying,20 mins,4.6
+Quiche Lorraine,"eggs, cheese, bacon, pie crust","Mix ingredients, bake until set and golden brown.",French,Baking,60 mins,4.8
+Thai Green Curry,"coconut milk, green curry paste, vegetables","Cook vegetables in coconut milk with curry paste until tender.",Thai,Simmering,40 mins,4.7
+Beef Enchiladas,"ground beef, tortillas, cheese, enchilada sauce","Fill tortillas with beef and cheese, bake with sauce until bubbly.",Mexican,Baking,50 mins,4.8
+Spinach and Cheese Stuffed Shells,"pasta shells, spinach, cheese, marinara sauce","Fill shells with mixture, bake in marinara sauce until bubbly.",Italian,Baking,50 mins,4.7
+Balsamic Glazed Chicken,"chicken, balsamic vinegar, honey","Cook chicken in balsamic glaze until cooked through.",American,Sautéing,30 mins,4.8
+Buffalo Chicken Dip,"chicken, cream cheese, hot sauce, cheese","Mix ingredients, bake until hot and bubbly.",American,Baking,30 mins,4.6
+Baked Salmon,"salmon, olive oil, spices","Bake salmon with olive oil and spices until cooked through.",American,Baking,25 mins,4.8
+Fruit Smoothie,"mixed fruits, yogurt, honey","Blend ingredients until smooth, serve cold.",American,No Cooking,5 mins,4.7
+Grilled Veggie Sandwich,"vegetables, bread, cheese, pesto","Grill vegetables, assemble sandwich with cheese and pesto.",American,Grilling,20 mins,4.6
+Pumpkin Pie,"pumpkin puree, pie crust, spices","Mix ingredients, fill pie crust, and bake until set.",American,Baking,60 mins,4.7
+Tom Yum Soup,"shrimp, mushrooms, lemongrass, spices","Cook all ingredients together until fragrant, serve hot.",Thai,Simmering,40 mins,4.8
+Pasta Primavera,"pasta, mixed vegetables, olive oil","Cook pasta, toss with sautéed vegetables and olive oil.",Italian,Boiling,30 mins,4.6
+Lasagna,"lasagna noodles, meat sauce, cheese","Layer ingredients, bake until bubbly and golden brown.",Italian,Baking,90 mins,4.7
+Gumbo,"sausage, shrimp, okra, rice","Cook ingredients together in broth, serve over rice.",Louisiana,Simmering,80 mins,4.8
+Peach Cobbler,"peaches, sugar, flour, butter","Mix ingredients, bake until bubbly and golden brown.",American,Baking,45 mins,4.5
+Chocolate Cake,"cocoa powder, flour, sugar, eggs","Mix ingredients, bake until set and golden brown.",American,Baking,60 mins,4.8
+Spaghetti Carbonara,"spaghetti, eggs, cheese, bacon","Cook spaghetti, toss with eggs and bacon, serve hot.",Italian,Boiling,30 mins,4.9
+Stuffed Mushrooms,"mushrooms, cheese, herbs, breadcrumbs","Fill mushrooms with mixture, bake until golden brown.",Italian,Baking,30 mins,4.6
+Greek Salad,"cucumbers, tomatoes, olives, feta cheese","Toss ingredients together, serve with dressing.",Greek,No Cooking,10 mins,4.5
+Chicken and Waffles,"chicken, waffles, syrup","Fry chicken, serve with waffles and syrup.",American,Frying,40 mins,4.7
+Balsamic Roasted Vegetables,"mixed vegetables, balsamic vinegar, olive oil","Roast vegetables with balsamic vinegar and olive oil until tender.",American,Baking,30 mins,4.6
+Mediterranean Quinoa Bowl,"quinoa, chickpeas, vegetables, dressing","Mix ingredients, serve cold or at room temperature.",Mediterranean,No Cooking,20 mins,4.8
+Vegetable Pad Thai,"rice noodles, vegetables, peanuts, sauce","Stir fry noodles with vegetables and sauce, top with peanuts.","Thai","Stir-Frying","30 mins",4.7
+Honey Garlic Chicken,"chicken, honey, garlic, soy sauce","Cook chicken in honey garlic sauce until cooked through.",American,Sautéing,30 mins,4.8
+Baked Eggplant Parmesan,"eggplant, marinara sauce, cheese","Layer eggplant with marinara and cheese, bake until bubbly.",Italian,Baking,60 mins,4.7
